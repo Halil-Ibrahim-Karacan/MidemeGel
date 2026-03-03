@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mideme Gel</string>
+    <string name="title_activity_product_page">ProductPageActivity</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="title_activity_edit_category">EditCategoryActivity</string>
+    <string name="title_activity_edit_product">EditProductActivity</string>
+</resources>

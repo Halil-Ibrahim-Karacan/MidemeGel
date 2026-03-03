@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778057365471",
+    "project_id": "midemegel",
+    "storage_bucket": "midemegel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778057365471:android:985c8d1bfc9c32c636b66a",
+        "android_client_info": {
+          "package_name": "com.example.midemegel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLyhZUgeqNXxlA_2UV9nKsDBqlpz13hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
