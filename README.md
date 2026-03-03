@@ -1,6 +1,6 @@
 # MidemeGel
 
-Yemek tariflerini, malzemeleri ve alışveriş listelerini kolayca yönetmenizi sağlayan Android uygulaması.
+Ürün ve kategorileri kolayca yönetebileceğiniz, beğendiklerinizi favorilere ekleyip alışveriş sepetinizi oluşturabileceğiniz Android uygulaması.
 
 ---
 
