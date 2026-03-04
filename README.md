@@ -87,5 +87,9 @@ Aşağıdaki tabloda her özellik için **sol sütun açık tema**, **sağ sütu
 ## 🛠️ Teknolojiler
 
 - **Dil:** Kotlin
-- **Platform:** Android
-- **Build:** Gradle
+- **UI:** Jetpack Compose(Material Design 3)
+- **Veritabanı:** SQLite
+- **Mimari:** MVVM
+- **Bağımlılık:** Hilt
+- **Yapı:** Clean Architecture, Clean Code
+- **Modlar:** Gündüz-Gece Modu
